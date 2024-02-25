@@ -10,9 +10,9 @@ export default function Navbar() {
           </Link>
         </h1>
         <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
-          <Link href="https://www.linkedin.com/in/tudor-domocos-73a134272/" className="text-white/90 hover:text-white"><FaLinkedin /></Link>
-          <Link href="https://twitter.com/UrsuDOM" className="text-white/90 hover:text-white"><FaTwitter /></Link>
-          <Link href="https://github.com/tursudor" className="text-white/90 hover:text-white"><FaGithub /></Link>
+          <Link href="https://www.linkedin.com/in/tudor-domocos-73a134272/" className="text-white/90 hover:text-slate-800"><FaLinkedin /></Link>
+          <Link href="https://twitter.com/UrsuDOM" className="text-white/90 hover:text-slate-800"><FaTwitter /></Link>
+          <Link href="https://github.com/tursudor" className="text-white/90 hover:text-slate-800"><FaGithub /></Link>
         </div>
       </div>
     </nav>
